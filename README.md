@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in the Robotics and Mechanisms Laboratory (RoMeLa) at UCLA
-- 🌱 I’m currently learning about Machine Learning and Topology.
+- 🌱 I’m currently learning about Machine Learning and Digital Signal Processing.
 - 👯 I’m looking to collaborate on perception systems and robotic sensing projects.
 - 💬 Ask me about any of my projects down below.
 - 📫 How to reach me: emir2903@gmail.com
