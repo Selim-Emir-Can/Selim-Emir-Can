@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in the Robotics and Mechanisms Laboratory (RoMeLa) at UCLA
-- 🌱 I’m currently learning about Eye-Tracking and Computational Imaging.
+- 🔭 I am currently working in the Visual Machines Group at UCLA. I previosly worked in the Robotics and Mechanisms Laboratory (RoMeLa) at UCLA
+- 🌱 I’m currently learning about generative AI and computational Imaging.
 - 👯 I’m looking to collaborate on computer vision and computational sensing projects.
 - 💬 Ask me about any of my projects down below.
 - 📫 How to reach me: emir2903@gmail.com
