@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about generative AI and computational Imaging.
 - 👯 I’m looking to collaborate on computer vision and computational sensing projects.
 - 💬 Ask me about any of my projects down below.
-- 📫 How to reach me: emir2903@gmail.com
+- 📫 How to reach me: emir2903@gmail.com/selim.can@ucla.edu
 - 😄 Pronouns: He/Him
 <!--
 **Selim-Emir-Can/Selim-Emir-Can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
