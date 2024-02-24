@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I am currently working in the Visual Machines Group at UCLA. I previosly worked in the Robotics and Mechanisms Laboratory (RoMeLa) at UCLA
-- 🌱 I’m currently learning about generative AI and computational Imaging.
-- 👯 I’m looking to collaborate on computer vision and computational sensing projects.
+- 🌱 I’m currently learning about Neural Rendering and Generative AI.
+- 👯 I’m looking to collaborate on Machine Learning and AR/VR research.
 - 💬 Ask me about any of my projects down below.
 - 📫 How to reach me: emir2903@gmail.com/selim.can@ucla.edu
 - 😄 Pronouns: He/Him
