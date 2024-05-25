@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working in the Visual Machines Group at UCLA. I previosly worked in the Robotics and Mechanisms Laboratory (RoMeLa) at UCLA
+- 🔭 I am currently working in the Visual Machines Group at UCLA. I previously worked in the Robotics and Mechanisms Laboratory (RoMeLa) at UCLA
 - 🌱 I’m currently learning about Neural Rendering and Generative AI.
 - 👯 I’m looking to collaborate on Machine Learning and AR/VR research.
 - 💬 Ask me about any of my projects down below.
