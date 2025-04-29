@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a 4th year undergraduate student researcher in the Electrical Engineering Department at University of California, Los Angeles working at the Visual Machines Group (VMG) under Professor Achuta Kadambi. Additionally, I am very fortunate to be working on microscopy research under Professor Aydogan Ozcan.
+- 🔭 I am a recent graduate from the Electrical Engineering Department at University of California, Los Angeles where I worked at the  Visual Machines Group (VMG) under Professor Achuta Kadambi and worked on microscopy research under Professor Aydogan Ozcan.
 - 🌱 I’m currently learning about Uncertainty Quantification and Virtual Staining.
 - 👯 I’m looking to collaborate on Computational Imaging and Computer Vision research.
 - 💬 Ask me about any of my projects down below.
